@@ -1,6 +1,5 @@
 #include<iostream>
 #include "Stack.h"
-#include "StackInt.h"
 using namespace std;
 int main()
 {
